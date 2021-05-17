@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+c975f92f2f960c3d5042269e3fe1ad20 CMakeFiles/camera_reader.dir/nvidia_sdk/Utils/camera_reader_generated_ColorSpace.cu.o

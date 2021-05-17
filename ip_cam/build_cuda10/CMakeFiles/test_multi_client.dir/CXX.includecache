@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ganyi/vscodeproject/rtsp/ip_cam/src/test_multi_client.cpp
+libavformat/avformat.h
+-
+libavutil/opt.h
+-
+unistd.h
+-
+

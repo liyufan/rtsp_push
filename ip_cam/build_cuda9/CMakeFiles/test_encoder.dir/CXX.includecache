@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ganyi/vscodeproject/rtsp/ip_cam/src/test_encoder.cpp
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+libavcodec/avcodec.h
+-
+libavutil/opt.h
+-
+libavutil/imgutils.h
+-
+

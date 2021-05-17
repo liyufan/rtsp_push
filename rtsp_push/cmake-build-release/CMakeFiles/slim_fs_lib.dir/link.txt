@@ -1,0 +1,2 @@
+/usr/bin/ar qc libslim_fs_lib.a  CMakeFiles/slim_fs_lib.dir/controller.cc.o CMakeFiles/slim_fs_lib.dir/local_filesystem_posix.cc.o CMakeFiles/slim_fs_lib.dir/sync_api_posix.cc.o
+/usr/bin/ranlib libslim_fs_lib.a

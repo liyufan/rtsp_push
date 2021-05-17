@@ -1,0 +1,9 @@
+/usr/local/lib/libframe_packer.so
+/usr/local/lib/libcamera_reader.so
+/usr/local/include//ip_camera/frame_packer.h
+/usr/local/include//ip_camera/camera_handler.h
+/usr/local/include//ip_camera/nvcuvid.h
+/usr/local/include//ip_camera/camera_writer.h
+/usr/local/include//ip_camera/cuviddec.h
+/usr/local/include//ip_camera/nvEncodeAPI.h
+/usr/local/include//ip_camera/camera_reader.h

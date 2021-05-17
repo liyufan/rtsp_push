@@ -1,0 +1,3 @@
+/home/ganyi/vscodeproject/rtsp/rtsp_push/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ganyi/vscodeproject/rtsp/rtsp_push/cmake-build-debug/CMakeFiles/rtsp_push.dir
+/home/ganyi/vscodeproject/rtsp/rtsp_push/cmake-build-debug/CMakeFiles/edit_cache.dir
